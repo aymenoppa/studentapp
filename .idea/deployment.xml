@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="nixonserver" />
+  <component name="PublishConfigData" serverName="nixonserver" uploadOnCheckin="a0c372bf-af3a-45e7-a9ad-f05acd609f06">
+    <option name="myUploadOnCheckinName" value="nixonserver" />
+  </component>
 </project>
