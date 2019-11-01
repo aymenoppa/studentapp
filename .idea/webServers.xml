@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a0c372bf-af3a-45e7-a9ad-f05acd609f06" name="nixonserver" url="http://77.68.80.77">
+        <fileTransfer host="77.68.80.77" port="22" rootFolder="/var/www/html/nixonsoftware/test" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
